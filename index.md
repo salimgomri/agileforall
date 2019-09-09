@@ -5,6 +5,10 @@ It will allow you to find some inspirations for your work.
 
 If you want me to help you deal with some topics feel free to [contact me](mailto:salim.gomri@gmail.com).
 
+## Scrum
+### [Sprint Review](scrum/review)
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
