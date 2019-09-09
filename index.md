@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to Agile For All
 
-You can use the [editor on GitHub](https://github.com/salimgomri/agileforall/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+The Agile For All is a set of Agile ressources for all of you.
+It will allow you to find some inspirations for your work.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+If you want me to help you deal with some topics feel free to [contact me](salim.gomri@gmail.com).
 
 ### Markdown
 
