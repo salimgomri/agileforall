@@ -3,7 +3,7 @@
 The Agile For All is a set of Agile ressources for all of you.
 It will allow you to find some inspirations for your work.
 
-If you want me to help you deal with some topics feel free to [contact me](salim.gomri@gmail.com).
+If you want me to help you deal with some topics feel free to [contact me](mailto:salim.gomri@gmail.com).
 
 ### Markdown
 
