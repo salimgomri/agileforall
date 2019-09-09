@@ -1,1 +1,16 @@
 theme: jekyll-theme-cayman
+# Name of website
+title: Salim Gomri / Agile For All
+# Short description of your site
+description: The website will help you to have some ressources about agility
+#social network
+social-network-links:
+  email: "salim.gomri@gmail.com"
+  linkedin: salimgomri
+# Select which share links to show in posts
+share-links-active:
+  twitter: true
+  facebook: false
+  linkedin: true 
+
+  
