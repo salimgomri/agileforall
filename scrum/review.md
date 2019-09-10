@@ -5,7 +5,7 @@
 The sprint review is an *informal meeting*, **not a status meeting**, which is in part of the SCRUM framework, [check the SCRUM guide](https://www.scrumguides.org/).
 
 ## 1. :calendar: When
-Accorcing to the [SCRUM guide](https://www.scrumguides.org/) 
+Accorcding to the [SCRUM guide](https://www.scrumguides.org/) 
 > The Sprint Review is held at the end of the Sprint to inspect the Increment and adapt the Product Backlog if needed.
 
 ## 2. :busts_in_silhouette: Who
