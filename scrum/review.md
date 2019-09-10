@@ -15,5 +15,5 @@ This meeting is **public**.
 This is at most a 1 hour meeting for 1 week sprint.
 
 ## 4. :man: Owner
-The Product Owner is the owner of the meeting.
+The Product Owner is the responsible of the meeting.
 
