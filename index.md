@@ -6,8 +6,8 @@ It will allow you to find some inspirations for your work.
 If you want me to help you deal with some topics feel free to [contact me](mailto:salim.gomri@gmail.com).
 
 ## Scrum
-### [Sprint Review](scrum/review)
-### [Epic Management by example](epic-management)
+- [Sprint Review](scrum/review)
+- [Epic Management by example](epic-management)
 
 
 ### Markdown
