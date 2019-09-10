@@ -1,6 +1,8 @@
 # :microscope: Sprint Review
 
+<!--
 ![Sprint Review](https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/2017-03/SprintReview.png)
+-->
 
 The sprint review is an *informal public meeting*, **not a status meeting**, which is in part of the SCRUM framework, [check the SCRUM guide](https://www.scrumguides.org/).
 
