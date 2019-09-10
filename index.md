@@ -7,6 +7,7 @@ If you want me to help you deal with some topics feel free to [contact me](mailt
 
 ## Scrum
 ### [Sprint Review](scrum/review)
+### [Epic Management by example](epic-management)
 
 
 ### Markdown
