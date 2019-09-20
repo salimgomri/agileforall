@@ -9,7 +9,7 @@ If you want me to help you deal with some topics feel free to [contact me](mailt
 - [Sprint Review](scrum/review)
 - [Scrum Master](scrum/scrummaster)
 - [Epic Management by example](epic-management)
-- [Retrospective](retrospective/comme-au-cinema)
+- [Retrospective](scrum/retrospective/comme-au-cinema)
 
 ## Agile
 - [How to select and develop individuals for successful agile teams: A practical guide](https://www.mckinsey.com/business-functions/organization/our-insights/how-to-select-and-develop-individuals-for-successful-agile-teams-a-practical-guide#)
