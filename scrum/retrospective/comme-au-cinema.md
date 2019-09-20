@@ -1,6 +1,6 @@
 # Comme au cinema 
 
-- [Lien inspiré](https://blog.myagilepartner.fr/index.php/2019/06/17/comme-au-cinema-retrospective/)
+- [Lien](https://blog.myagilepartner.fr/index.php/2019/06/17/comme-au-cinema-retrospective/)
 
 ## Matériel requis pour comme au cinéma
 Pour cette rétrospective, il n’y a pas besoin de beaucoup de matériel :
