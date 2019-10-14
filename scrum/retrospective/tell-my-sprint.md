@@ -4,20 +4,15 @@
 -----
 Template:
 
-> Moi xx quand je suis arrivé *le jour JOUR de la semaine 1 du sprint *
-
-> Voici les éléments marquants :
+> Moi XXXX quand je suis arrivé le jour JOUR de la semaine 1 du sprint SSSS
+> 1. Voici les éléments marquants :
+> - xxx 
+> 2. Voici ce qui m'a surpris:
 > - xxx
-
-> Voici ce qui m'a surpris:
+> 3. Voici ce qui m'a fait rire :
 > - xxx
-
-> Voici ce qui m'a fait rire :
-> - xxx
-
-> En résumé je qualifierai cette journée de YYYY...
-
-> Note:
+> 4. En résumé je qualifierai cette journée de YYYY...
+> 5. Note:
 > * XXX -note perso-
 > * YYY -note pro-
 
