@@ -20,4 +20,4 @@ Voici ce qui m'a fait rire :
 En résumé je qualifierai cette journée de YYYY...
 
 Note:
-* 
+* XXX
