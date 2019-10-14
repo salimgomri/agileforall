@@ -1,23 +1,24 @@
 
 # tell my sprint
 
-Lundi: 
-- planning 
-- 10 personnes 
-- lundi quand je suis arrivé
+-----
+Template:
 
-Moi xx quand je suis arrivé *le jour JOUR de la semaine 1 du sprint *
+> Moi xx quand je suis arrivé *le jour JOUR de la semaine 1 du sprint *
 
-Voici les éléments marquants :
-- xxx
+> Voici les éléments marquants :
+> - xxx
 
-Voici ce qui m'a surpris:
-- xxx
+> Voici ce qui m'a surpris:
+> - xxx
 
-Voici ce qui m'a fait rire :
-- xxx
+> Voici ce qui m'a fait rire :
+> - xxx
 
-En résumé je qualifierai cette journée de YYYY...
+> En résumé je qualifierai cette journée de YYYY...
 
-Note:
-* XXX
+> Note:
+> * XXX -note perso-
+> * YYY -note pro-
+
+------
