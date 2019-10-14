@@ -6,7 +6,7 @@ Lundi:
 - 10 personnes 
 - lundi quand je suis arrivé
 
-Moi xx quand je suis arrivé *JOUR*
+Moi xx quand je suis arrivé *le jour JOUR de la semaine 1 du sprint *
 
 Voici les éléments marquants :
 - xxx
